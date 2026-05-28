@@ -1,0 +1,16 @@
+node_modules/
+session-backup-*.md
+*.log
+.env
+.env.*
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
